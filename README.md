@@ -2,11 +2,13 @@
 
 Download the current installer from [Releases](https://github.com/byebaih1/byebaih-client-releases/releases/latest).
 
+Version 3.8.2 adds a compact update notice and a Settings badge. Click **View update** to open the update panel. Notices hide after eight seconds, pause while you interact, and can be dismissed for that version. Older launchers need to install 3.8.2 from Settings first to receive these notices for future releases.
+
 Version 3.8.1 adds username-only skin saving. Choose a Minecraft PNG and Classic/Slim on the Skins page, then click **Save**. No pairing code is required. Restart Minecraft after changing a skin while playing. Other players need this client or a pack configured for the same skin service. If they still see a previously loaded skin, they may need to reopen Minecraft as well.
 
 Skins are shared by username, without ownership verification. Devices using the same username share the latest saved skin.
 
-Install 3.8.1 once, or update from 3.8.0 in Settings. Future updates download automatically; close Minecraft before installing a downloaded update.
+Install the current release once, or update from 3.8.0/3.8.1 in Settings. Future updates download automatically; close Minecraft before installing a downloaded update.
 
 Includes Pixelmon 9.3.16 for Minecraft 1.21.1 / NeoForge 21.1.248, Sodium, Iris, JourneyMap, JEI, FerriteCore, ModernFix, EntityCulling, Dynamic FPS and **CustomSkinLoader 14.21**.
 CustomSkinLoader is included unmodified with its license in the JAR and pack. [Original project and matching source](https://github.com/xfl03/MCCustomSkinLoader/tree/v14.21).
